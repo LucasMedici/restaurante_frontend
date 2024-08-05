@@ -1,7 +1,8 @@
 import React from 'react'
+import ItemCard from '@/components/itemCard'
 
 export default function page() {
   return (
-    <h2>Home</h2>
+    <ItemCard />
   )
 }
