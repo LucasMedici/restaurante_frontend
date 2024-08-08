@@ -21,7 +21,7 @@ export default function ItemCard() {
             <hr style={{width: '250px'}}/>
 
             <div>
-                <button>Comprar</button>
+                <button className='botao_comprar'>Comprar</button>
             </div>
 
         </div>
