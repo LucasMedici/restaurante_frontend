@@ -15,3 +15,11 @@ Este repositório contém o frontend para o projeto de restaurante, desenvolvido
    cd restaurante_frontend
    npm install
    npm run dev
+
+## Futuros Objetivos 
+
+- [ ] Terminar Telas: Home, Login e Perfil
+- [ ] Inserir Styled Components 
+- [ ] Enviar pedidos para a fila do RabbitMQ
+- [ ] Inserir WebSockets no Projeto
+
